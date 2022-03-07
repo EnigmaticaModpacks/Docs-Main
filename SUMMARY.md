@@ -13,6 +13,10 @@
   * [Java](help-desk/guides/java.md)
   * [OptiFine](help-desk/guides/optifine.md)
 
+## 🙌 Contributing
+
+* [Translations](https://app.gitbook.com/o/Xm08SgXsTx88gPV1rpIk/s/eUhIyu7fBqOXwtbpUcfL/)
+
 ## 📦 Modpacks
 
 * [Enigmatica 6](https://wiki.enigmatica.net/enigmatica6)
@@ -21,5 +25,6 @@
 
 * [CurseForge](https://www.curseforge.com/members/enigmaticamodpacks/projects)
 * [Discord](https://discord.gg/enigmatica)
-* [Twitter](https://twitter.com/EnigmaticaPacks)
 * [GitHub](https://github.com/EnigmaticaModpacks)
+* [Blog](https://blog.enigmatica.net)
+* [Twitter](https://twitter.com/EnigmaticaPacks)
