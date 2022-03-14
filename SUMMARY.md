@@ -19,6 +19,7 @@
 
 ## 📦 Modpacks
 
+* [Enigmatica 2 Expert](https://e2e-expert.fandom.com/wiki/Enigmatica\_2:\_Expert\_Wiki)
 * [Enigmatica 6](https://wiki.enigmatica.net/enigmatica6)
 
 ## 🔗 Links
