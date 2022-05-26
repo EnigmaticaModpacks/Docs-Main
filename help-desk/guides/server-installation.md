@@ -20,7 +20,7 @@ A key difference between vanilla Minecraft and modded Minecraft is that you will
 
     _<mark style="color:yellow;">Make sure you do not have this in OneDrive or another synced folder, as those can lock up the installer.</mark>_
 4. Run the `start-server` script and wait for the installation to complete.
-5. You should now see a prompt to accept the EULA. Accept by typing `TRUE` and pressing `Ente`
+5. You should now see a prompt to accept the EULA. Accept by typing `TRUE` and pressing `Enter`
 6.  When the server has started fully, close the window and run the `start-server` script again.
 
     _<mark style="color:yellow;">This works around a known issue where you cannot type in the console the first time you start the server.</mark>_
