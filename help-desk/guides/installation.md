@@ -37,7 +37,7 @@ The CurseForge App is not currently available on Linux systems.
 3. Go to **CurseForge tab** and search for the pack you want to install.
 5. If you see the window with information about missing mods, download them manually with provided links by the Launcher and click continue afterwards.
 6. Right click onto the modpack you just installed, and click Edit Instance.
-7. Go to **Mods tab**, click the **Add mods** button on the right side and navigate to where you downloaded missing mods in step 5.
+7. Go to **Mods tab**, click the **Add mods** button on the right side and navigate to where you downloaded missing mods in step 4.
 8. Increase the memory to at least the minimum required for the chosen pack (see [allocating-memory.md](allocating-memory.md "mention")).
 
 ## Twitch Client
