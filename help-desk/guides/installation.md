@@ -28,16 +28,17 @@ The CurseForge App is not currently available on Linux systems.
 3. Search for the pack you want to install.
 4. Increase the memory to at least the minimum required for the chosen pack (see [allocating-memory.md](allocating-memory.md "mention")).
 
-## MultiMC&#x20;
+## PolyMC&#x20;
 
-:inbox\_tray: [MultiMC Download](https://multimc.org/#Download)
+:inbox\_tray: [PolyMC Download](https://polymc.org/download/)
 
-1. Download and Install MultiMC, link above.
-2. Download the .zip of the [modpack](https://www.curseforge.com/members/nillermeddild/projects).
-3. Open MultiMC and click on Add Instance.
-4. Click on Import from zip.
-5. Click on Browse and navigate to where you downloaded the .zip from step 2.
-6. Increase the memory to at least the minimum required for the chosen pack (see [allocating-memory.md](allocating-memory.md "mention")).
+1. Download and Install PolyMC, link above.
+2. Open PolyMC and click on Add Instance.
+3. Go to **CurseForge tab** and search for the pack you want to install.
+5. If you see the window with information about missing mods, download them manually with provided links by the Launcher and click continue afterwards.
+6. Right click onto the modpack you just installed, and click Edit Instance.
+7. Go to **Mods tab**, click the **Add mods** button on the right side and navigate to where you downloaded missing mods in step 5.
+8. Increase the memory to at least the minimum required for the chosen pack (see [allocating-memory.md](allocating-memory.md "mention")).
 
 ## Twitch Client
 
