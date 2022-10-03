@@ -1,6 +1,7 @@
 ---
-cover: .gitbook/assets/EMPS-1900x400.png
-coverY: 0
+
+![cover](.gitbook/assets/EMPS-1900x400.png)
+
 ---
 
 # 🏠 Home
