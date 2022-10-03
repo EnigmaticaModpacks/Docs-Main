@@ -60,9 +60,9 @@ This method will change the default allocated memory for all packs that you inst
 3. Adjust the slider to suit.
 4. Click the cross in the upper-right corner. Settings will be automatically saved.
 
-## MultiMC
+## PolyMC
 
-:inbox\_tray: [MultiMC Download](https://multimc.org/#Download)
+:inbox\_tray: [PolyMC Download](https://polymc.org/download/)
 
 **Changing the Allocated Memory for one specific pack.**
 
