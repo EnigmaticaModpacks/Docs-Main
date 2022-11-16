@@ -20,7 +20,8 @@ The amount of memory that should be allocated for Enigmatica modpacks is shown i
 | Enigmatica 4                  | 3 GB    | 4 GB        | 5 GB               |
 | Enigmatica 5                  | 5 GB    | 6 GB        | 8 GB               |
 | Enigmatica 6                  | 5 GB    | 6 GB        | 8 GB               |
-| Enigmatica 8                  | 3 GB    | 4 GB        | 6 GB               |
+| Enigmatica 8                  | 5 GB    | 6 GB        | 8 GB               |
+| Enigmatica 9                  | 5 GB    | 6 GB        | 8 GB               |
 | Create Together               | 2 GB    | 3 GB        | 4 GB               |
 
 {% hint style="info" %}
@@ -29,7 +30,7 @@ _\* Recommended for use with HD Resource Packs or Shaders._
 
 ## CurseForge App
 
-:inbox\_tray: [CurseForge App Download](https://curseforge.overwolf.com)
+:inbox\_tray: [CurseForge App Download](https://curseforge.overwolf.com/)
 
 **Method 1: Changing the default Allocated Memory for Minecraft mod packs.**
 
@@ -59,19 +60,6 @@ This method will change the default allocated memory for all packs that you inst
 2. Select Override Java Memory.
 3. Adjust the slider to suit.
 4. Click the cross in the upper-right corner. Settings will be automatically saved.
-
-## MultiMC
-
-:inbox\_tray: [MultiMC Download](https://multimc.org/#Download)
-
-**Changing the Allocated Memory for one specific pack.**
-
-1. Right-click on the pack, then select Edit Instance.
-2. Select the Settings tab on the left.
-3. Tick the Memory checkbox.
-4. Enter the amount of memory to allocate in the Minimum memory allocation and Maximum memory allocation boxes, in megabytes (MB).
-   * Note: Minecraft generally functions best when the minimum and maximum memory are set to the same value.
-5. Click Close in the lower-right.
 
 ## Maximum Allocation
 
