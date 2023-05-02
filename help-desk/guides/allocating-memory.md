@@ -21,7 +21,7 @@ The amount of memory that should be allocated for Enigmatica modpacks is shown i
 | Enigmatica 5                  | 5 GB    | 6 GB        | 8 GB               |
 | Enigmatica 6                  | 5 GB    | 6 GB        | 8 GB               |
 | Enigmatica 8                  | 5 GB    | 6 GB        | 8 GB               |
-| Enigmatica 9                  | 5 GB    | 6 GB        | 8 GB               |
+| Enigmatica 9                  | 6 GB    | 6.5 GB      | 8 GB               |
 | Create Together               | 2 GB    | 3 GB        | 4 GB               |
 
 {% hint style="info" %}

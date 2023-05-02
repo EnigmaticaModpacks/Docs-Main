@@ -15,7 +15,7 @@
 
 ## 🙌 Contributing
 
-* [Translations](https://app.gitbook.com/o/Xm08SgXsTx88gPV1rpIk/s/eUhIyu7fBqOXwtbpUcfL/)
+* [Translations](http://localhost:5000/o/Xm08SgXsTx88gPV1rpIk/s/eUhIyu7fBqOXwtbpUcfL/)
 
 ## 📦 Modpacks
 
