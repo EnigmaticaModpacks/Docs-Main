@@ -12,6 +12,7 @@ Currently available for
 
 * Enigmatica 6
 * Enigmatica 8
+* Enigmatica 9
 * Create Together
 {% endhint %}
 
@@ -28,6 +29,9 @@ git clone https://github.com/EnigmaticaModpacks/Enigmatica6
 
 # Enigmatica 8
 git clone https://github.com/EnigmaticaModpacks/Enigmatica8
+
+# Enigmatica 9
+git clone https://github.com/EnigmaticaModpacks/Enigmatica9
 
 # Create Together
 git clone https://github.com/EnigmaticaModpacks/CreateTogether

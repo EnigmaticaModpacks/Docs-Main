@@ -8,7 +8,7 @@ If you have followed the instructions and have any problems, we offer help in th
 
 ## CurseForge App
 
-:inbox\_tray:[CurseForge App Download](https://curseforge.overwolf.com)
+:inbox\_tray:[CurseForge App Download](https://curseforge.overwolf.com/)
 
 {% hint style="warning" %}
 The CurseForge App is not currently available on Linux systems.

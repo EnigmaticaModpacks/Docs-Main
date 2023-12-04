@@ -15,7 +15,7 @@
 
 ## 🙌 Contributing
 
-* [Translations](http://localhost:5000/o/Xm08SgXsTx88gPV1rpIk/s/eUhIyu7fBqOXwtbpUcfL/)
+* [Translations](http://127.0.0.1:5000/o/Xm08SgXsTx88gPV1rpIk/s/eUhIyu7fBqOXwtbpUcfL/)
 
 ## 📦 Modpacks
 
