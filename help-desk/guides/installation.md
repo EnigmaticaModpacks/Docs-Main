@@ -27,20 +27,3 @@ The CurseForge App is not currently available on Linux systems.
 2. Open GDLauncher and click on the **+** icon, in the bottom-left corner..
 3. Search for the pack you want to install.
 4. Increase the memory to at least the minimum required for the chosen pack (see [allocating-memory.md](allocating-memory.md "mention")).
-
-## MultiMC&#x20;
-
-:inbox\_tray: [MultiMC Download](https://multimc.org/#Download)
-
-1. Download and Install MultiMC, link above.
-2. Download the .zip of the [modpack](https://www.curseforge.com/members/nillermeddild/projects).
-3. Open MultiMC and click on Add Instance.
-4. Click on Import from zip.
-5. Click on Browse and navigate to where you downloaded the .zip from step 2.
-6. Increase the memory to at least the minimum required for the chosen pack (see [allocating-memory.md](allocating-memory.md "mention")).
-
-## Twitch Client
-
-{% hint style="danger" %}
-The Twitch client **no longer supports Minecraft mods** as of December 2020. It has been officially replaced with the Overwolf CurseForge client. Please switch to one of the above launchers instead.
-{% endhint %}
