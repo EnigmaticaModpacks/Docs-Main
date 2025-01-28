@@ -10,19 +10,7 @@ The method to allocate memory depends on the program that you are using to run t
 
 The amount of memory that should be allocated for Enigmatica modpacks is shown in the table below, but optimal amounts may vary depending on the total memory available in your system&#x20;
 
-| Modpack                       | Minimum | Recommended | Recommended (HD)\* |
-| ----------------------------- | ------- | ----------- | ------------------ |
-| Enigmatica                    | 5 GB    | 6 GB        | 8 GB               |
-| Enigmatica 2                  | 7 GB    | 7 GB        | 8 GB               |
-| Enigmatica 2: Light           | 4 GB    | 5 GB        | 7 GB               |
-| Enigmatica 2: Expert          | 6 GB    | 6.5 GB      | 8 GB               |
-| Enigmatica 2: Expert Skyblock | 5 GB    | 6 GB        | 8 GB               |
-| Enigmatica 4                  | 3 GB    | 4 GB        | 5 GB               |
-| Enigmatica 5                  | 5 GB    | 6 GB        | 8 GB               |
-| Enigmatica 6                  | 5 GB    | 6 GB        | 8 GB               |
-| Enigmatica 8                  | 5 GB    | 6 GB        | 8 GB               |
-| Enigmatica 9                  | 6 GB    | 6.5 GB      | 8 GB               |
-| Create Together               | 2 GB    | 3 GB        | 4 GB               |
+<table><thead><tr><th width="216.91641490433034">Modpack</th><th width="150">Minimum</th><th width="150">Recommended</th><th>Recommended (HD)*</th></tr></thead><tbody><tr><td>Enigmatica</td><td>5 GB</td><td>6 GB</td><td>8 GB</td></tr><tr><td>Enigmatica 2</td><td>7 GB</td><td>7 GB</td><td>8 GB</td></tr><tr><td>Enigmatica 2: Light</td><td>4 GB</td><td>5 GB</td><td>7 GB</td></tr><tr><td>Enigmatica 2: Expert</td><td>6 GB</td><td>6.5 GB</td><td>8 GB</td></tr><tr><td>Enigmatica 2: Expert Skyblock</td><td>5 GB</td><td>6 GB</td><td>8 GB</td></tr><tr><td>Enigmatica 4</td><td>3 GB</td><td>4 GB</td><td>5 GB</td></tr><tr><td>Enigmatica 5</td><td>5 GB</td><td>6 GB</td><td>8 GB</td></tr><tr><td>Enigmatica 6</td><td>5 GB</td><td>6 GB</td><td>8 GB</td></tr><tr><td>Enigmatica 8</td><td>5 GB</td><td>6 GB</td><td>8 GB</td></tr><tr><td>Enigmatica 9</td><td>6 GB</td><td>6.5 GB</td><td>8 GB</td></tr><tr><td>Enigmatica 10</td><td>6 GB</td><td>6.5 GB</td><td>8 GB</td></tr><tr><td>Create Together</td><td>2 GB</td><td>3 GB</td><td>4 GB</td></tr></tbody></table>
 
 {% hint style="info" %}
 _\* Recommended for use with HD Resource Packs or Shaders._
@@ -50,17 +38,6 @@ This method will change the default allocated memory for all packs that you inst
 5. Uncheck Use System Memory Settings then adjust the slider to suit.
 6. Click Done in the lower-right corner.
 
-## GDLauncher
-
-:inbox\_tray: [GDLauncher Download](https://gdevs.io/#downloadContainer)
-
-**Changing the Allocated Memory for one specific pack.**
-
-1. Right-click on the pack, then select Manage.
-2. Select Override Java Memory.
-3. Adjust the slider to suit.
-4. Click the cross in the upper-right corner. Settings will be automatically saved.
-
 ## Maximum Allocation
 
 Never allocate more memory than your PC can spare. The below table shows maximum values depending on how much RAM your PC has.
@@ -72,4 +49,6 @@ Never allocate more memory than your PC can spare. The below table shows maximum
 | 12 GB                 | 8 GB               | 10 GB                     |
 | 16 GB                 | 8 GB               | 10 GB                     |
 
-Assigning more than shown here is never recommend, as you may actually get worse performance. If you're using shaders or a HD resource pack, the maximum is 10 GB.
+Assigning more than shown here is never recommend, as you may actually get worse performance.&#x20;
+
+\*If you're using shaders or a HD resource pack, the maximum is 10 GB.
